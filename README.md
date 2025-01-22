@@ -1,16 +1,26 @@
-# bloc_task2
+# Counter App
 
-A new Flutter project.
+A simple Flutter application that demonstrates the use of the **BLoC (Business Logic Component)** pattern for state management. The app allows users to increment, decrement, and reset a counter. It also includes features like showing a SnackBar when the counter reaches specific values (10 or -10) and displaying a dialog when the counter becomes negative.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Increment Counter**: Increase the counter value by 1.
+- **Decrement Counter**: Decrease the counter value by 1.
+- **Reset Counter**: Reset the counter value to 0.
+- **SnackBar Notifications**: Show a SnackBar when the counter reaches 10 or -10.
+- **Dialog Alert**: Display a dialog when the counter becomes negative.
+- **BLoC Pattern**: Uses the `flutter_bloc` package for state management.
+- **Animations**: Includes animated SnackBars and dialogs for a better user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Output
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2025-01-22 230917](https://github.com/user-attachments/assets/1f8b9554-051d-4c83-b4ef-5fc9ed56d354)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-01-22 234715](https://github.com/user-attachments/assets/806cd2c3-0a3a-41da-a40f-e133a53a3733)
+
+![Screenshot 2025-01-22 234801](https://github.com/user-attachments/assets/65721657-13ae-4a15-b48e-397f7a489bf6)
+
+
+https://github.com/user-attachments/assets/fff96a25-5d1d-4b7f-a5a6-48be545af051
+
+
